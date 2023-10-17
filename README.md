@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Haleem-code
-- 👀 I’m a frontend developer
+- 👋 Hi, I’m @Haleem
+- 👀 I’m a FullStack Blockchain and  Frontend developer
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on my projects
 - 📫 How to reach me abdulhaleemayomide@gmail.com
