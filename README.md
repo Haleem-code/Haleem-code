@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haleem
 - 👀 I’m an Aspiring FullStack Blockchain and  Frontend developer
-- 🌱 My stacks are Html5, CSS3, Sass, Reactjs ,js ,solidity.
+- 🌱 My stacks are Html5, CSS3, Sass, Reactjs ,Nextjs , Typescript, Ethers.js, Web3js,solidity.
 - 💞️ I’m looking to collaborate on my projects 
 - 📫 How to reach me abdulhaleemayomide@gmail.com
 
