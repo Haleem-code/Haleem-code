@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm building <a>blocksub.vercel.app</a> a blockchain-based subscription SDK<br>I'm currently learning Rust🦀<br>I love to collaborate with likely minded Developers<br>
+I'm building www.blocksub.vercel.app a blockchain-based subscription SDK<br>I'm currently learning Rust🦀<br>I love to collaborate with likely minded Developers<br>
 
 
 ## 🌐 Socials:
