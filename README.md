@@ -1,5 +1,7 @@
 # 💫 About Me: A Frontend Developer
-I'm currently learning Rust🦀<br>I love to collaborate with likely minded Developers<br><br> Talk to me about Solana<br><br>Exploring the blockchain as a whole
+I’m a passionate frontend developer with experience building with Solidity, currently diving into Rust to build on Solana. My Solidity skills are a bit shaky, but I’m actively learning to master Rust and the Solana ecosystem. I enjoy collaborating with like-minded developers and exploring the blockchain space as a whole.
+
+Talk to me about Solana or frontend development—I'm always down for a good tech chat!
 
 
 
