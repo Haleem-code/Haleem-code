@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: A Frontend Developer
 I'm currently learning Rust🦀<br>I love to collaborate with likely minded Developers<br><br> Talk to me about Solana<br><br>Exploring the blockchain as a whole
 
 
