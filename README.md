@@ -22,7 +22,7 @@
 
 **Frontend:**  
 `TypeScript` · `React` · `Next.js` · `TailwindCSS`  
-**Backend""
+**Backend:**
 `Rust`. `Next SSR`
 
 **Blockchain:**  
