@@ -2,7 +2,7 @@
 
  Frontend Developer | 🦀 Learning Rust | ⚙️ Building on Solana
 
----
+
 
 ## Currently Exploring
 
