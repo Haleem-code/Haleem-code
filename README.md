@@ -1,1 +1,1 @@
-# “Just a frontend dev leveling up in Rust🦀.”
+“Just a frontend dev leveling up in Rust🦀.”
