@@ -100,82 +100,15 @@ Building decentralized applications on Solana:
 
 ---
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Haleem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haleem-code&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haleem-code&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Haleem-code&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```diff
-+ Building production Solana dApps with Anchor & Rust
-+ Crafting beautiful UIs with Next.js 14 & React Server Components
-+ Architecting high-performance APIs with Bun & ElysiaJS
-+ Exploring DeFi protocols and subscription models on Solana
-+ Contributing to open-source Web3 projects
-```
-
----
-
-## 💡 Skills Breakdown
-
-**Frontend Excellence:**
-- ✅ React & Next.js (App Router, SSR, SSG)
-- ✅ TypeScript for type-safe development
-- ✅ Responsive design & CSS mastery
-- ✅ State management & performance optimization
-
-**Backend Proficiency:**
-- ✅ Bun & ElysiaJS for ultra-fast APIs
-- ✅ Node.js & Express for scalable services
-- ✅ RESTful API design & implementation
-- ✅ Database design (SQL & NoSQL)
-
-**Blockchain Expertise:**
-- ✅ Solana program development with Anchor
-- ✅ Rust for on-chain programs
-- ✅ Web3 wallet integration
-- ✅ NFT & token standards implementation
-- ✅ DeFi protocol architecture
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haleemayomide02@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: abdulhaleemayomide@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itzHaleem)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://itzhaleem.dev)
 
 **Open to collaborations on Web3 projects and full-stack applications!**
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Developer Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Haleem-code&color=blueviolet&style=flat-square&label=Profile+Views)
-
-**"First, solve the problem. Then, write the code."** – John Johnson
 
 </div>
 
