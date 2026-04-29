@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Haleem-code?style=social)](https://github.com/Haleem-code)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdulhaleem-ayomide-797b57197)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter)](https://twitter.com/itzHaleem)
-
+[![](https://komarev.com/ghpvc/?username=Haleem-code&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
 ---
