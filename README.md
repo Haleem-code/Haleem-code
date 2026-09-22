@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https// .png" width="90" alt="logo" />
+<img src="assets/logo.png" width="90" alt="logo" />
 
 # Haleem
 
-**Full-Stack Engineer · Web3 & Solana**
+**Full-Stack Engineer · Aspiring AI/ML**
 
 ![typing banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Building+on+Solana+%26+EVM;Bun+%2F+ElysiaJS+%2F+React;Currently+learning+Python+for+AI)
 
@@ -25,7 +25,7 @@ Right now I'm learning **Python for AI/ML**, working through fundamentals (CS50)
 
 ### Stack
 
-**Frontend** React, Next.js, TypeScript, TailwindCSS  
+**Frontend** React, Next.js, TypeScript, TailwindCSS, React Native (Expo)  
 **Backend** Bun, ElysiaJS, Node.js  
 **Blockchain** Solana, Anchor, Rust, Solidity, Web3.js  
 **Databases** MongoDB  
