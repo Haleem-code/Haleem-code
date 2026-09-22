@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" width="90" alt="logo" />
+<img src="https://res.cloudinary.com/dyaswv714/image/upload/v1777268103/haleem-normie_ktfstt.jpg" width="90" alt="logo" />
 
 # Haleem
 
