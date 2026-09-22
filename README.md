@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://your-logo-url-here.png" width="90" alt="logo" />
+<img src="https// .png" width="90" alt="logo" />
 
 # Haleem
 
